@@ -1,0 +1,26 @@
+{
+  "name": "fuzzy-ts",
+  "version": "0.0.1",
+  "description": "A fuzzy logic implementation for javascript with ts",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andreabbondanza/fuzzy-ts.git"
+  },
+  "keywords": [
+    "fuzzy",
+    "typescript",
+    "javascript",
+    "fuzzy",
+    "logic"
+  ],
+  "author": "Andrea Vincenzo Abbondanza",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/andreabbondanza/fuzzy-ts/issues"
+  },
+  "homepage": "https://github.com/andreabbondanza/fuzzy-ts#readme"
+}
